@@ -12,7 +12,7 @@ It demonstrates basic Linux commands, file handling, and version control practic
 
 linux_project/
 │── profile.txt # Contains personal details (Name & Roll No)
-│── commands.txt # 5 favorite Linux commands with purpose
+│── commands.txt # 5 favorite Linux commands with purpose 
 │── log.txt # 5 executed commands from history
 │── tech_diary.txt # Final merged file with ASCII art & motivational quote
 
