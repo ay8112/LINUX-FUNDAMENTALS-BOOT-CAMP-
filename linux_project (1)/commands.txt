@@ -1,0 +1,5 @@
+1. ls    → Lists files and directories in the current location
+2. pwd   → Prints the current working directory
+3. cat   → Displays the contents of a file
+4. nano  → Opens a file in the nano text editor
+5. zip   → Compresses files into a .zip archive

@@ -1,0 +1,5 @@
+$ ls
+$ mkdir linux_project
+$ cd linux_project
+$ touch profile.txt
+$ echo "Hello Linux World!" >> profile.txt

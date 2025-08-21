@@ -1,0 +1,67 @@
+====================== My Linux Tech Diary ======================
+
+👤 Profile  
+-----------------------------------------------------------
+Name     : Aman Singh Yadav  
+Roll No  : BBDNIT-2025-CS-117  
+
+-----------------------------------------------------------
+
+🖥️ Favorite Linux Commands  
+-----------------------------------------------------------
+1. ls        → Lists files and directories in the current location  
+2. pwd       → Prints the current working directory  
+3. cat       → Displays the contents of a file  
+4. nano      → Opens a file in the nano text editor  
+5. zip       → Compresses files into a .zip archive  
+
+-----------------------------------------------------------
+
+📜 Logbook (Recent Commands from History)  
+-----------------------------------------------------------
+$ ls  
+$ mkdir linux_project  
+$ cd linux_project  
+$ touch profile.txt  
+$ echo "Hello Linux World!" >> profile.txt  
+
+-----------------------------------------------------------
+
+🎨 ASCII Art + Motivation  
+-----------------------------------------------------------
+
+        ╭━━━╮
+        ┃╭━╮┃
+        ┃┃ ╰╋━━┳━┳━━╮
+        ┃┃ ╭┫╭╮┃╭┫┃━┫
+        ┃╰━╯┃╰╯┃┃┃┃━┫
+        ╰━━━┻━━┻╯╰━━╯
+
+“Every command you learn makes you stronger.  
+Keep coding, keep growing 🌱.”
+
+-----------------------------------------------------------
+
+📝 Project Workflow Recap  
+-----------------------------------------------------------
+1. Created project folder → mkdir linux_project && cd linux_project  
+2. Created files → touch profile.txt commands.txt log.txt  
+3. Added personal details inside profile.txt  
+4. Wrote 5 favorite commands with purpose in commands.txt  
+5. Logged executed commands from history into log.txt  
+6. Merged files → cat profile.txt commands.txt log.txt > tech_diary.txt  
+7. Decorated with ASCII art + motivational quote  
+8. Compressed → zip linux_project.zip *.txt  
+9. Uploaded to GitHub repository  
+
+-----------------------------------------------------------
+
+✅ Final Note  
+-----------------------------------------------------------
+This project helped me practice:  
+- File handling (touch, cat, nano)  
+- Navigation (ls, pwd, cd)  
+- Archiving (zip)  
+- Version control basics (git)  
+
+===========================================================
